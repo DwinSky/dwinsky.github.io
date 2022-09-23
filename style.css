@@ -9,13 +9,11 @@
   padding-top: 2rem;
   background-image: url(images/PA.jpg);
   background-size: cover;
-  height: 500px;
 }
 
 footer {
   background-color: #004445;
   color: white;
-  margin: 0;
 }
 
 section {
