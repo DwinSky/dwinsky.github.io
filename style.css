@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 120px;
+  background-image: url(images/jp.jpg);
+  background-size: cover;
+  height: 600px;
+}
+
+#hobby {
+  padding-top: 2rem;
+  background-image: url(images/PA.jpg);
+  background-size: cover;
+  height: 500px;
+}
+
+footer {
+  background-color: #004445;
+  color: white;
+  margin: 0;
+}
+
+section {
+  padding-top: 5rem;
+}
