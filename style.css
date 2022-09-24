@@ -6,9 +6,7 @@
 }
 
 #hobby {
-  padding-top: 2rem;
-  background-image: url(images/PA.jpg);
-  background-size: cover;
+  background-color: rgb(240, 240, 240);
 }
 
 footer {
